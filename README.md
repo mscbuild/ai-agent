@@ -27,7 +27,8 @@
  **[Browse Online](https://mscbuild.github.io/workflow-n8n/)** · **[Documentation](#documentation)** · **[Contributing](#contributing)** · **[License](#license)**
 
   </div>
- ---
+ 
+ -----
 
 ## 📑 Table of Contents
 
