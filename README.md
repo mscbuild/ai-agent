@@ -18,17 +18,15 @@
 
  
   
- 
-
- 
- 
- 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. AI Agents · Multi-agent Teams · MCP Agents · RAG · Voice Agents · Agent Skills · Fine-tuning 
+100+ AI Agent & RAG apps you can actually run — clone, customize, ship. AI Agents · Multi-agent Teams · MCP Agents · RAG · Voice Agents · Agent Skills · Fine-tuning 
 
  Free step-by-step tutorials Works with Claude · Gemini · OpenAI · xAI · Qwen · Llama 
  
- </div>
+ 
 
  **[Browse Online](https://mscbuild.github.io/workflow-n8n/)** · **[Documentation](#documentation)** · **[Contributing](#contributing)** · **[License](#license)**
+
+  </div>
 
 ## 📑 Table of Contents
 
