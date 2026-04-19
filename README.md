@@ -137,7 +137,7 @@
 ### 🧩 Awesome Agent Skills
 *Ready-to-use agent skill files you can plug into any AI agent or LLM workflow.*
 
-*   [♾️ Self-Improving Agent Skills](awesome_agent_skills/self-improving-agent-skills/) - Automatically optimize agent skills using Gemini and ADK
+*   [♾️ Self-Improving Agent Skills](https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/awesome_agent_skills/self-improving-agent-skills) - Automatically optimize agent skills using Gemini and ADK
 
 <details>
 <summary><strong>📋 Browse all 19 skills</strong></summary>
