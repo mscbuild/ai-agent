@@ -2,10 +2,14 @@
 
 A typical AI agent for SQL analysis follows a structured reasoning path: 
 
-**1.Intent Extraction:** The agent uses an LLM to understand the user's business question. 
+**1.Intent Extraction:** The agent uses an LLM to understand the user's business question.
+
 **2.Schema Grounding:** It fetches relevant table names and column schemas to avoid "hallucinated" data structures.
+
 **3.Query Generation:** The agent writes a SQL query tailored to the specific database dialect (e.g., PostgreSQL, BigQuery, SQL Server).
+
 **4.Validation & Execution:** A specialized tool or "senior agent" reviews the query for errors before executing it.
+
 **5.Data Synthesis:** The raw results are returned to the LLM, which formats them into plain English or generates visualizations. 
  
 ## Recommended Tools & Frameworks
