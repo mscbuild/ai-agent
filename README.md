@@ -11,7 +11,7 @@
  ![](https://img.shields.io/github/license/mscbuild/ai-agent) 
  ![](https://img.shields.io/badge/PRs-Welcome-green)
  ![](https://img.shields.io/github/languages/code-size/mscbuild/ai-agent)
-![](https://img.shields.io/badge/code%20style-docs-green)
+![](https://img.shields.io/badge/code%20style-ai-green)
 ![](https://img.shields.io/github/stars/mscbuild/ai-agent)
 ![](https://img.shields.io/badge/Topic-Github-lighred)
 ![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
