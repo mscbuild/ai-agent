@@ -10,7 +10,7 @@ jobs:
       matrix:
         python-version: ["pypy3.10", "3.9", "3.10", "3.11", "3.12", "3.13"]
 
-steps:
+ steps:
 - uses: actions/checkout@v5
 - name: Set up Python
   uses: actions/setup-python@v5
