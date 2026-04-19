@@ -1,5 +1,5 @@
-[repo]: https://github.com/mscbuild/workflow-n8n/
-[demo]: https://mscbuild.github.io/workflow-n8n/
+[repo]: https://github.com/mscbuild/ai-agent/
+[demo]: https://mscbuild.github.io/ai-agent/
 
 <div align="center">
  
@@ -27,6 +27,8 @@
  Free step-by-step tutorials Works with Claude · Gemini · OpenAI · xAI · Qwen · Llama 
  
  </div>
+
+ **[Browse Online](https://mscbuild.github.io/workflow-n8n/)** · **[Documentation](#documentation)** · **[Contributing](#contributing)** · **[License](#license)**
 
 ## 📑 Table of Contents
 
