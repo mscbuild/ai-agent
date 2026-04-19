@@ -5,10 +5,7 @@
  
 ## 🌟 Awesome AI Agent.
  
-</div>
  
-
-<div align="center">
 
  ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/ai-agent) 
@@ -19,12 +16,12 @@
 ![](https://img.shields.io/badge/Topic-Github-lighred)
 ![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
 
-</div
+ 
   
  
 
 <div align="center">
-**100+ AI Agent & RAG apps you can actually run — clone, customize, ship. AI Agents · Multi-agent Teams · MCP Agents · RAG · Voice Agents · Agent Skills · Fine-tuning**
+ 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. AI Agents · Multi-agent Teams · MCP Agents · RAG · Voice Agents · Agent Skills · Fine-tuning 
 
  Free step-by-step tutorials Works with Claude · Gemini · OpenAI · xAI · Qwen · Llama 
  
