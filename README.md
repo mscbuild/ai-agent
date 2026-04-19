@@ -199,31 +199,7 @@
 * [Llama 3.2 Fine-tuning](advanced_llm_apps/llm_finetuning_tutorials/llama3.2_finetuning/)
 
  
-<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Framework wise Usecases</h2><a id="user-content-framework-wise-usecases" class="anchor" aria-label="Permalink: Framework wise Usecases" href="#framework-wise-usecases"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<hr>
-<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><strong>Framework Name</strong>: <strong>CrewAI</strong></h3><a id="user-content-framework-name-crewai" class="anchor" aria-label="Permalink: Framework Name: CrewAI" href="#framework-name-crewai"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<markdown-accessiblity-table><table>
-<thead>
-<tr>
-<th>Use Case</th>
-<th>Industry</th>
-<th>Description</th>
-<th>GitHub</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>📧 Email Auto Responder Flow</td>
-<td>🗣️ Communication</td>
-<td>Automates email responses based on predefined criteria to enhance communication efficiency.</td>
-<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/flows/email_auto_responder_flow"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
-</tr>
-<tr>
-<td>📝 Meeting Assistant Flow</td>
-<td>🛠️ Productivity</td>
-<td>Assists in organizing and managing meetings, including scheduling and agenda preparation.</td>
-<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/flows/meeting_assistant_flow"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
-</tr>
+ 
 <tr>
 <td>🔄 Self Evaluation Loop Flow</td>
 <td>👥 Human Resources</td>
