@@ -200,6 +200,140 @@
 
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Framework wise Usecases</h2><a id="user-content-framework-wise-usecases" class="anchor" aria-label="Permalink: Framework wise Usecases" href="#framework-wise-usecases"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 ----
+<tbody>
+<tr>
+<td>📧 Email Auto Responder Flow</td>
+<td>🗣️ Communication</td>
+<td>Automates email responses based on predefined criteria to enhance communication efficiency.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/flows/email_auto_responder_flow"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>📝 Meeting Assistant Flow</td>
+<td>🛠️ Productivity</td>
+<td>Assists in organizing and managing meetings, including scheduling and agenda preparation.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/flows/meeting_assistant_flow"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>🔄 Self Evaluation Loop Flow</td>
+<td>👥 Human Resources</td>
+<td>Facilitates self-assessment processes within an organization, aiding in performance reviews.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/flows/self_evaluation_loop_flow"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>📈 Lead Score Flow</td>
+<td>💼 Sales</td>
+<td>Evaluates and scores potential leads to prioritize outreach in sales strategies.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/flows/lead-score-flow"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>📊 Marketing Strategy Generator</td>
+<td>📢 Marketing</td>
+<td>Develops marketing strategies by analyzing market trends and audience data.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/crews/marketing_strategy"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>📝 Job Posting Generator</td>
+<td>🧑‍💼 Recruitment</td>
+<td>Creates job postings by analyzing job requirements, aiding in recruitment processes.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/crews/job-posting"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>🔄 Recruitment Workflow</td>
+<td>🧑‍💼 Recruitment</td>
+<td>Streamlines the recruitment process by automating various tasks involved in hiring.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/crews/recruitment"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>🔍 Match Profile to Positions</td>
+<td>🧑‍💼 Recruitment</td>
+<td>Matches candidate profiles to suitable job positions to enhance recruitment efficiency.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/crews/match_profile_to_positions"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>📸 Instagram Post Generator</td>
+<td>📱 Social Media</td>
+<td>Generates and schedules Instagram posts automatically, streamlining social media management.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/crews/instagram_post"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>🌐 Landing Page Generator</td>
+<td>💻 Web Development</td>
+<td>Automates the creation of landing pages for websites, facilitating web development tasks.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/crews/landing_page_generator"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>🎮 Game Builder Crew</td>
+<td>🎮 Game Development</td>
+<td>Assists in the development of games by automating certain aspects of game creation.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/crews/game-builder-crew"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>💹 Stock Analysis Tool</td>
+<td>💰 Finance</td>
+<td>Provides tools for analyzing stock market data to assist in financial decision-making.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/crews/stock_analysis"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>🗺️ Trip Planner</td>
+<td><g-emoji class="g-emoji" alias="airplane">✈️</g-emoji> Travel</td>
+<td>Assists in planning trips by organizing itineraries and managing travel details.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/crews/trip_planner"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>🎁 Surprise Trip Planner</td>
+<td><g-emoji class="g-emoji" alias="airplane">✈️</g-emoji> Travel</td>
+<td>Plans surprise trips by selecting destinations and activities based on user preferences.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/crews/surprise_trip"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>📚 Write a Book with Flows</td>
+<td>✍️ Creative Writing</td>
+<td>Assists authors in writing books by providing structured workflows and writing assistance.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/flows/write_a_book_with_flows"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>🎬 Screenplay Writer</td>
+<td>✍️ Creative Writing</td>
+<td>Aids in writing screenplays by offering templates and guidance for script development.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/crews/screenplay_writer"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>✅ Markdown Validator</td>
+<td>📄 Documentation</td>
+<td>Validates Markdown files to ensure proper formatting and adherence to standards.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/crews/markdown_validator"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>🧠 Meta Quest Knowledge</td>
+<td>📚 Knowledge Management</td>
+<td>Manages and organizes knowledge related to Meta Quest, facilitating information retrieval.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/crews/meta_quest_knowledge"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>🤖 NVIDIA Models Integration</td>
+<td>🤖 AI Integration</td>
+<td>Integrates NVIDIA AI models into workflows to enhance computational capabilities.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/integrations/nvidia_models"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>🗂️ Prep for a Meeting</td>
+<td>🛠️ Productivity</td>
+<td>Assists in preparing for meetings by organizing materials and setting agendas.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/crews/prep-for-a-meeting"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>🛠️Starter Template</td>
+<td>🛠️ Development</td>
+<td>Provides a starter template for new projects to streamline the setup process.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/crews/starter_template"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td>🔗CrewAI + LangGraph Integration</td>
+<td>🤖 AI Integration</td>
+<td>Demonstrates integration between CrewAI and LangGraph for enhanced workflow automation.</td>
+<td><a href="https://github.com/crewAIInc/crewAI-examples/tree/main/integrations/CrewAI-LangGraph"><img src="https://camo.githubusercontent.com/78ef5623d7361e74e909b90ea5f4af9d939df5307c2896284062b70b0762bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d5265706f7369746f72792d626c7565" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-Repository-blue" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
 
 ### 🧑‍🏫 AI Agent Framework Crash Course
 *Deep-dive tutorials on the major agent frameworks.*
