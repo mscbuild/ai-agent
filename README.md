@@ -59,7 +59,7 @@
 *   [🎬 AI Movie Production Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/advanced_ai_agents/single_agent_apps/ai_movie_production_agent)
 *   [📈 AI Investment Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/advanced_ai_agents/single_agent_apps/ai_investment_agent)
 *   [🏋️‍♂️ AI Health & Fitness Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/advanced_ai_agents/single_agent_apps/ai_health_fitness_agent)
-*   [🚀 AI Product Launch Intelligence Agent] (https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/advanced_ai_agents/multi_agent_apps/product_launch_intelligence_agent)
+*   [🚀 AI Product Launch Intelligence Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/advanced_ai_agents/multi_agent_apps/product_launch_intelligence_agent)
 *   [🔍 AI Fraud Investigation Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/advanced_ai_agents/single_agent_apps/ai_fraud_investigation_agent)
 *   [🗞️ AI Journalist Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/advanced_ai_agents/single_agent_apps/ai_journalist_agent)
 *   [🧠 AI Mental Wellbeing Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/advanced_ai_agents/multi_agent_apps/ai_mental_wellbeing_agent)
