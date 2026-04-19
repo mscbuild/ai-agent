@@ -374,7 +374,17 @@
   - Multi‑agent patterns; agent handoffs
   - Swarm orchestration; routing logic
 
+## 🚀 Getting Started
 
+Clone the repository
+```bash
+git clone https://github.com/mscbuild/ai-agent.git
+cd ai-agent
+```
+# 📄 License
+
+> MIT License
+ 
  
 
  
