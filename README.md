@@ -36,7 +36,7 @@
 *   [❤️‍🩹 AI Breakup Recovery Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/starter_ai_agents/ai_breakup_recovery_agent)
 *   [📊 AI Data Analysis Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/starter_ai_agents/ai_data_analysis_agent)
 *   [🩻 AI Medical Imaging Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/starter_ai_agents/ai_medical_imaging_agent)
-*   [😂 AI Meme Generator Agent (Browser)] (https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/starter_ai_agents/ai_meme_generator_agent_browseruse)
+*   [😂 AI Meme Generator Agent (Browser)](https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/starter_ai_agents/ai_meme_generator_agent_browseruse)
 *   [🎵 AI Music Generator Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/starter_ai_agents/ai_music_generator_agent)
 *   [🛫 AI Travel Agent (Local & Cloud)](https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/starter_ai_agents/ai_travel_agent )
 *   [✨ Gemini Multimodal Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/starter_ai_agents/gemini_multimodal_agent_demo)
