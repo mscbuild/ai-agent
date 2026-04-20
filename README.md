@@ -24,7 +24,7 @@
  
  
 
- **[Browse Online](https://mscbuild.github.io/about/agent.html)** · **[Documentation](#documentation)** · **[Contributing](#contributing)** · **[License](#license)**
+ **[Browse Online](https://mscbuild.github.io/about/agent.html)** · **[Documentation](#documentation)** · **[Tools](#tools)** · **[License](#license)**
 
   </div>
  
@@ -390,36 +390,8 @@
 <li><a href="https://github.com/liu00222/Open-Prompt-Injection">Open-Prompt-Injection</a>: open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/73d7788e163dec46c46e3840c6ecf25bf16983a32d2bd753b65e2ac57b024d73/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6c697530303232322f4f70656e2d50726f6d70742d496e6a656374696f6e3f7374796c653d736f6369616c"><img src="https://camo.githubusercontent.com/73d7788e163dec46c46e3840c6ecf25bf16983a32d2bd753b65e2ac57b024d73/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6c697530303232322f4f70656e2d50726f6d70742d496e6a656374696f6e3f7374796c653d736f6369616c" alt="GitHub Repo stars" data-canonical-src="https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social" style="max-width: 100%;"></a></li>
 <li><a href="https://github.com/splx-ai/agentic-radar">Agentic Radar</a>: Open-source CLI security scanner for agentic workflows. <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2d58a3491208d4f66d460a6bf47e8d6f23db01c7cb7ed6d74dfa01ff5c652a56/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f73706c782d61692f6167656e7469632d72616461723f7374796c653d736f6369616c"><img src="https://camo.githubusercontent.com/2d58a3491208d4f66d460a6bf47e8d6f23db01c7cb7ed6d74dfa01ff5c652a56/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f73706c782d61692f6167656e7469632d72616461723f7374796c653d736f6369616c" alt="GitHub Repo stars" data-canonical-src="https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social" style="max-width: 100%;"></a></li>
 </ul>
-<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Articles</h2><a id="user-content-articles" class="anchor" aria-label="Permalink: Articles" href="#articles"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<ul dir="auto">
-<li><a href="https://positive.security/blog/auto-gpt-rce" rel="nofollow">Hacking Auto-GPT and escaping its docker container</a></li>
-<li><a href="https://blog.seclify.com/prompt-injection-cheat-sheet/" rel="nofollow">Prompt Injection Cheat Sheet: How To Manipulate AI Language Models</a></li>
-<li><a href="https://greshake.github.io/" rel="nofollow">Indirect Prompt Injection Threats</a></li>
-<li><a href="https://simonwillison.net/2023/Apr/14/worst-that-can-happen/" rel="nofollow">Prompt injection: What’s the worst that can happen?</a></li>
-<li><a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/" rel="nofollow">OWASP Top 10 for Large Language Model Applications</a></li>
-<li><a href="https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/" rel="nofollow">PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news</a></li>
-<li><a href="https://embracethered.com/blog/posts/2023/chatgpt-webpilot-data-exfil-via-markdown-injection/" rel="nofollow">ChatGPT Plugins: Data Exfiltration via Images &amp; Cross Plugin Request Forgery</a></li>
-<li><a href="https://www.lesswrong.com/posts/KSroBnxCHodGmPPJ8/jailbreaking-gpt-4-s-code-interpreter" rel="nofollow">Jailbreaking GPT-4's code interpreter</a></li>
-<li><a href="https://developer.nvidia.com/blog/securing-llm-systems-against-prompt-injection/" rel="nofollow">Securing LLM Systems Against Prompt Injection</a></li>
-<li><a href="https://danielmiessler.com/p/the-ai-attack-surface-map-v1-0/" rel="nofollow">The AI Attack Surface Map v1.0</a></li>
-<li><a href="https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/" rel="nofollow">Adversarial Attacks on LLMs</a></li>
-<li><a href="https://medium.com/@deltaaruna/how-anyone-can-hack-chatgpt-aa7959684ef0" rel="nofollow">How Anyone can Hack ChatGPT - GPT4o</a></li>
-<li><a href="https://repello.ai/blog/llm-evaluation-metrics-frameworks-and-checklist" rel="nofollow">LLM Evaluation metrics, frmaework, and checklist</a></li>
-<li><a href="https://repello.ai/blog/how-rag-poisoning-made-llama3-racist-1c5e390dd564" rel="nofollow">How RAG Poisoning Made Llama3 Racist!</a></li>
-</ul>
-<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Other Awesome Projects</h2><a id="user-content-other-awesome-projects" class="anchor" aria-label="Permalink: Other Awesome Projects" href="#other-awesome-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<ul dir="auto">
-<li>(0din GenAI Bug Bounty from Mozilla)(<a href="https://0din.ai" rel="nofollow">https://0din.ai</a>): The 0Day Investigative Network is a bug bounty program focusing on flaws within GenAI models. Vulnerability classes include Prompt Injection, Training Data Poisoning, DoS, and more.</li>
-<li><a href="https://gandalf.lakera.ai/" rel="nofollow">Gandalf</a>: a prompt injection wargame</li>
-<li><a href="https://github.com/advisories/GHSA-fprp-p869-w6q2">LangChain vulnerable to code injection - CVE-2023-29374</a></li>
-<li><a href="https://github.com/rushout09/llm-security-startups">LLM Security startups</a></li>
-<li><a href="https://www.promptingguide.ai/risks/adversarial" rel="nofollow">Adversarial Prompting</a></li>
-<li><a href="https://epivolis.com/" rel="nofollow">Epivolis</a>: a prompt injection aware chatbot designed to mitigate adversarial efforts</li>
-<li><a href="https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta">LLM Security Problems at DEFCON31 Quals</a>: the world's top security competition</li>
-<li><a href="https://sites.google.com/view/promptbounty/" rel="nofollow">PromptBounty.io</a></li>
-<li><a href="https://github.com/mik0w/pallms">PALLMs (Payloads for Attacking Large Language Models)</a></li>
-</ul>
-
+ 
+ 
 ## 🚀 Getting Started
 
 Clone the repository
